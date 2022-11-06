@@ -1,4 +1,4 @@
-name: Livraison automatique
+name: Livraison automatique NPM, GITHUB et CPANEL
 
 on:
     push:
