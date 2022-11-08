@@ -1,34 +1,38 @@
-# Composants REACT 
+# Composants REACT
 
-Implémentations d'une bibliothèque de 10 composants REACT réutilisable à l'aide des frameworks material-ui et antd. X
+Implémentations d'une bibliothèque de 10 composants REACT réutilisable à l'aide des frameworks material-ui et antd.
 
 # Collaboration
 
 Ces composants sont la réalisation d'un travail de collaboration entre Yannick Jean et Samuel Demers.
 
 # Liste des composants
-* Alerte
-* Avatar
-* Bouton
-* Carte
-* ChampTexte
-* Etape
-* LoadSpin
-* MenuDeroulant
-* Popup
-* Resultat
+
+-   Alerte
+-   Avatar
+-   Bouton
+-   Carte
+-   ChampTexte
+-   Etape
+-   LoadSpin
+-   MenuDeroulant
+-   Popup
+-   Resultat
 
 # Extra
-* Collection
 
-# Détails des composants 
+-   Collection
+
+# Détails des composants
 
 **Alerte**
-* Succes : Permet de changer la couleur et le texte de l'alerte de type succès.
-* Avertissement : Permet de changer la couleur et le texte de l'alerte de type avertissement.
-* Erreur : Permet de changer la couleur et le texte de l'alerte de type erreur.
+
+-   Succes : Permet de changer la couleur et le texte de l'alerte de type succès.
+-   Avertissement : Permet de changer la couleur et le texte de l'alerte de type avertissement.
+-   Erreur : Permet de changer la couleur et le texte de l'alerte de type erreur.
 
 **Exemple d'utilisation:**
+
 ```sh
 <Alerte
   message="Vous avez réussi à créer votre alerte!!!"
@@ -37,11 +41,13 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```
 
 **Avatar**
-* Petit : Permet de changer la taille de l'avatar à petit.
-* Moyen : Permet de changer la taille de l'avatar à moyen.
-* Grand : Permet de changer la taille de l'avatar à grand.
+
+-   Petit : Permet de changer la taille de l'avatar à petit.
+-   Moyen : Permet de changer la taille de l'avatar à moyen.
+-   Grand : Permet de changer la taille de l'avatar à grand.
 
 **Exemple d'utilisation:**
+
 ```sh
 <Avatars
   alt="Roger"
@@ -52,11 +58,13 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```
 
 **Bouton**
-* Start : Permet de changer l'aspect visuel du bouton et le texte pour Start.
-* Eject : Permet de changer l'aspect visuel du bouton et le texte pour Eject.
-* Destroy  : Permet de changer l'aspect visuel du bouton et le texte pour Destroy.
+
+-   Start : Permet de changer l'aspect visuel du bouton et le texte pour Start.
+-   Eject : Permet de changer l'aspect visuel du bouton et le texte pour Eject.
+-   Destroy : Permet de changer l'aspect visuel du bouton et le texte pour Destroy.
 
 **Exemple d'utilisation:**
+
 ```sh
 <Bouton
   borderColor="black"
@@ -70,11 +78,13 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```
 
 **Carte**
-* Default : Permet de mettre par défaut l'état de la carte.
-* DarkMode : Permet de changer l'aspect visuel de la carte pour un mode noir.
-* Hoverable : Permet de changer l'aspect visuel de la carte pour qu'il soit survolable.
+
+-   Default : Permet de mettre par défaut l'état de la carte.
+-   DarkMode : Permet de changer l'aspect visuel de la carte pour un mode noir.
+-   Hoverable : Permet de changer l'aspect visuel de la carte pour qu'il soit survolable.
 
 **Exemple d'utilisation:**
+
 ```sh
 <Carte
   description="www.tinder.com"
@@ -84,11 +94,13 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```
 
 **ChampTexte**
-* Contour : Permet de changer l'aspect visuel du champ avec un contour. 
-* Attention : Permet de changer l'aspect visuel du champ avec un avertissement. 
-* Succes  : Permet de changer l'aspect visuel du champ avec un encadré succès. 
+
+-   Contour : Permet de changer l'aspect visuel du champ avec un contour.
+-   Attention : Permet de changer l'aspect visuel du champ avec un avertissement.
+-   Succes : Permet de changer l'aspect visuel du champ avec un encadré succès.
 
 **Exemple d'utilisation:**
+
 ```sh
 <ChampTexte
   color="primary"
@@ -99,11 +111,13 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```
 
 **Etape**
-* Attente : Permet de changer l'état de l'étape à attente.
-* Chargement : Permet de changer l'état de l'étape à chargement.
-* Termine : Permet de changer l'état de l'étape à terminé.
+
+-   Attente : Permet de changer l'état de l'étape à attente.
+-   Chargement : Permet de changer l'état de l'étape à chargement.
+-   Termine : Permet de changer l'état de l'étape à terminé.
 
 **Exemple d'utilisation:**
+
 ```sh
 <Etape
   current="1"
@@ -117,23 +131,26 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 />
 ```
 
-
 **LoadSpin**
-* Small : Permet de changer la taille à petit.
-* Medium : Permet de changer la taille à moyen.
-* Large : Permet de changer la taille à grand.
+
+-   Small : Permet de changer la taille à petit.
+-   Medium : Permet de changer la taille à moyen.
+-   Large : Permet de changer la taille à grand.
 
 **Exemple d'utilisation:**
+
 ```sh
 <LoadSpin size="small" />
 ```
 
 **MenuDeroulant**
-* BottomLeft : Ouverture en bas à gauche.
-* Bottom : Ouverture en bas.
-* Right : Ouverture à droite.
+
+-   BottomLeft : Ouverture en bas à gauche.
+-   Bottom : Ouverture en bas.
+-   Right : Ouverture à droite.
 
 **Exemple d'utilisation:**
+
 ```sh
 <MenuDeroulant
   item1="Hot-Dog"
@@ -144,21 +161,25 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```
 
 **Popup**
-* Basic : Changement d'état de la fenêtre. 
-* Centered : Changement d'état de la fenêtre. 
-* Warning : Changement d'état de la fenêtre. 
+
+-   Basic : Changement d'état de la fenêtre.
+-   Centered : Changement d'état de la fenêtre.
+-   Warning : Changement d'état de la fenêtre.
 
 **Exemple d'utilisation:**
+
 ```sh
 <PopUp title="Basic modal" />
 ```
 
 **Resultat**
-* Succes : Permet de changer la couleur, le logo et le texte du résultat de type succès.
-* Probleme : Permet de changer la couleur, le logo et le texte du résultat de type avertissement.
-* Erreur : Permet de changer la couleur, le logo et le texte du résultat de type erreur.
+
+-   Succes : Permet de changer la couleur, le logo et le texte du résultat de type succès.
+-   Probleme : Permet de changer la couleur, le logo et le texte du résultat de type avertissement.
+-   Erreur : Permet de changer la couleur, le logo et le texte du résultat de type erreur.
 
 **Exemple d'utilisation:**
+
 ```sh
 <Resultats
   key="console"
@@ -174,13 +195,17 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 ```sh
 yarn install
 ```
+
 ```sh
 yarn storybook
 ```
+
 ou
+
 ```sh
 npm install
 ```
+
 ```sh
 npm run storybook
 ```
