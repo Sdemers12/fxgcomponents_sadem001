@@ -28,47 +28,47 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 * Avertissement
 * Erreur
 
-Avatar
+**Avatar**
 * Petit
 * Moyen
 * Grand
 
-Bouton
+**Bouton**
 * Start
 * Eject
 * Destroy
 
-Carte
+**Carte**
 * Default
 * DarkMode
 * Hoverable
 
-ChampTexte
+**ChampTexte**
 * Contour
 * Attention
 * Succes
 
-Etape
+**Etape**
 * Attente
 * Chargement
 * Termine
 
-LoadSpin
+**LoadSpin**
 * Small
 * Medium
 * Large
 
-MenuDeroulant
+**MenuDeroulant**
 * BottomLeft
 * Bottom
 * Right
 
-Popup
+**Popup**
 * Basic
 * Centered
 * Warning
 
-Resultat
+**Resultat**
 * Succes
 * Probleme
 * Erreur
