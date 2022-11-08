@@ -21,57 +21,57 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 # Extra
 * Collection
 
-## Détails des composants 
-
-Bouton
-(Start,
-Eject,
-Destroy)
-
-Carte
-(Default,
-DarkMode,
-Hoverable)
-
-LoadSpin
-(Small,
-Medium,
-Large)
-
-MenuDeroulant
-(BottomLeft,
-Bottom,
-Right)
-
-Popup
-(Basic,
-Centered,
-Warning)
+# Détails des composants 
 
 Alerte
-(Succes,
-Avertissement,
-Erreur)
+*Succes
+*Avertissement
+*Erreur
 
 Avatar
-(Petit,
-Moyen,
-Grand)
+*Petit
+*Moyen
+*Grand
+
+Bouton
+*Start
+*Eject
+*Destroy
+
+Carte
+*Default
+*DarkMode
+*Hoverable
 
 ChampTexte
-(Contour,
-Attention,
-Succes)
+*Contour
+*Attention
+*Succes
 
 Etape
-(Attente,
-Chargement,
-Termine)
+*Attente
+*Chargement
+*Termine
+
+LoadSpin
+*Small
+*Medium
+*Large
+
+MenuDeroulant
+*BottomLeft
+*Bottom
+*Right
+
+Popup
+*Basic
+*Centered
+*Warning
 
 Resultat
-(Succes,
-Probleme,
-Erreur)
+*Succes
+*Probleme
+*Erreur
 
 # Pour démarrer le projet dans le terminal
 
