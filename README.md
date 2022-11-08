@@ -1,10 +1,10 @@
 # Composants REACT 
 
-Implémentations d'une bibliothèque de 10 composants REACT réutilisablede à l'aide des frameworks material-ui et antd.
+Implémentations d'une bibliothèque de 10 composants REACT réutilisable à l'aide des frameworks material-ui et antd. X
 
 # Collaboration
 
-Ces composants sont la réalisation d'un travail de collaboration entre Yannick Jean et Samuel Demers
+Ces composants sont la réalisation d'un travail de collaboration entre Yannick Jean et Samuel Demers.
 
 # Liste des composants
 * Alerte
