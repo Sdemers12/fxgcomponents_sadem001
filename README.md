@@ -56,15 +56,47 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 * Eject : Permet de changer l'aspect visuel du bouton et le texte pour Eject.
 * Destroy  : Permet de changer l'aspect visuel du bouton et le texte pour Destroy.
 
+**Exemple d'utilisation:**
+```sh
+<Bouton
+  borderColor="black"
+  color="green"
+  height={45}
+  shape="circle"
+  text1="START"
+  type="primary"
+  width={50}
+/>
+```
+
 **Carte**
 * Default : Permet de mettre par défaut l'état de la carte.
 * DarkMode : Permet de changer l'aspect visuel de la carte pour un mode noir.
 * Hoverable : Permet de changer l'aspect visuel de la carte pour qu'il soit survolable.
 
+**Exemple d'utilisation:**
+```sh
+<Carte
+  description="www.tinder.com"
+  title="European cool girl"
+  width={250}
+/>
+```
+
 **ChampTexte**
 * Contour : Permet de changer l'aspect visuel du champ avec un contour. 
 * Attention : Permet de changer l'aspect visuel du champ avec un avertissement. 
 * Succes  : Permet de changer l'aspect visuel du champ avec un encadré succès. 
+
+**Exemple d'utilisation:**
+```sh
+<ChampTexte
+  color="primary"
+  defaultValue=""
+  helperText=""
+  label="Nom"
+/>
+```
 
 **Etape**
 * Attente : Permet de changer l'état de l'étape à attente.
