@@ -28,6 +28,14 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 * Avertissement : Permet de changer la couleur et le texte de l'alerte de type avertissement.
 * Erreur : Permet de changer la couleur et le texte de l'alerte de type erreur.
 
+Exemple d'utilisation:
+```sh
+<Alerte
+  message="Vous avez réussi à créer votre alerte!!!"
+  type="success"
+/>
+```
+
 **Avatar**
 * Petit : Permet de changer la taille de l'avatar à petit.
 * Moyen : Permet de changer la taille de l'avatar à moyen.
