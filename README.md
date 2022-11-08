@@ -75,12 +75,16 @@ Erreur)
 
 # Pour démarrer le projet dans le terminal:
 
+```sh
 yarn install
-
+```
+```sh
 yarn storybook
-
+```
 ou
-
+```sh
 npm install
-
+```
+```sh
 npm run storybook
+```
