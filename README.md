@@ -73,7 +73,7 @@ Resultat
 Probleme,
 Erreur)
 
-# Pour démarrer le projet dans le terminal:
+# Pour démarrer le projet dans le terminal
 
 ```sh
 yarn install
