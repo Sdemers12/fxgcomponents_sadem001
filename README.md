@@ -1,6 +1,6 @@
 # Composants REACT 
 
-Implémentations d'une bibliothèque de 11 composants REACT réutilisablede à l'aide des frameworks material-ui et antd.
+Implémentations d'une bibliothèque de 10 composants REACT réutilisablede à l'aide des frameworks material-ui et antd.
 
 # Collaboration
 
@@ -12,12 +12,14 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 * Bouton
 * Carte
 * ChampTexte
-* Collection
 * Etape
 * LoadSpin
 * MenuDeroulant
 * Popup
 * Resultat
+
+# Extra
+* Collection
 
 ## Détails des composants 
 
