@@ -103,25 +103,71 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 * Chargement : Permet de changer l'état de l'étape à chargement.
 * Termine : Permet de changer l'état de l'étape à terminé.
 
+**Exemple d'utilisation:**
+```sh
+<Etape
+  current="1"
+  description1=""
+  description2=""
+  description3=""
+  labelPlacement="vertical"
+  title1="En attente.."
+  title2="Chargement"
+  title3="Terminé!"
+/>
+```
+
+
 **LoadSpin**
 * Small : Permet de changer la taille à petit.
 * Medium : Permet de changer la taille à moyen.
 * Large : Permet de changer la taille à grand.
+
+**Exemple d'utilisation:**
+```sh
+<LoadSpin size="small" />
+```
 
 **MenuDeroulant**
 * BottomLeft : Ouverture en bas à gauche.
 * Bottom : Ouverture en bas.
 * Right : Ouverture à droite.
 
+**Exemple d'utilisation:**
+```sh
+<MenuDeroulant
+  item1="Hot-Dog"
+  item2="Poutine"
+  item3="Hamburger"
+  placement="bottomLeft"
+/>
+```
+
 **Popup**
 * Basic : Changement d'état de la fenêtre. 
 * Centered : Changement d'état de la fenêtre. 
 * Warning : Changement d'état de la fenêtre. 
 
+**Exemple d'utilisation:**
+```sh
+<PopUp title="Basic modal" />
+```
+
 **Resultat**
 * Succes : Permet de changer la couleur, le logo et le texte du résultat de type succès.
 * Probleme : Permet de changer la couleur, le logo et le texte du résultat de type avertissement.
 * Erreur : Permet de changer la couleur, le logo et le texte du résultat de type erreur.
+
+**Exemple d'utilisation:**
+```sh
+<Resultats
+  key="console"
+  status="success"
+  subTitle="Numéro de commande : 1234567890"
+  title="Votre achat a été complété avec succès!"
+  type="primary"
+/>
+```
 
 # Pour démarrer le projet dans le terminal
 
