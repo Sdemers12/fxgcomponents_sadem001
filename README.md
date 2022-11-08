@@ -4,7 +4,7 @@ Implémentations d'une bibliothèque de 11 composants REACT réutilisablede à l
 
 # Collaboration
 
-Ces composantes sont la réalisation d'un travail de collaboration entre Yannick Jean et Samuel Demers
+Ces composants sont la réalisation d'un travail de collaboration entre Yannick Jean et Samuel Demers
 
 # Liste des composants
 * Alerte
