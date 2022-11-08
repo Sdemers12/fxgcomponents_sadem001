@@ -1,37 +1,25 @@
-## TP1 - Storybook
+# Composants REACT 
 
-Implémentations de 10 composants react basé sur différents
-composants des frameworks material-ui et antd.
+Implémentations d'une bibliothèque de 11 composants REACT réutilisablede à l'aide des frameworks material-ui et antd.
 
-## Liste des composants yajea001:
+# Collaboration
 
-Bouton
+Ces composantes sont la réalisation d'un travail de collaboration entre Yannick Jean et Samuel Demers
 
-Carte
+# Liste des composants
+* Alerte
+* Avatar
+* Bouton
+* Carte
+* ChampTexte
+* Collection
+* Etape
+* LoadSpin
+* MenuDeroulant
+* Popup
+* Resultat
 
-LoadSpin
-
-MenuDeroulant
-
-Popup
-
-## Liste des composants sadem001:
-
-Alerte
-
-Avatar
-
-ChampTexte
-
-Etape
-
-Resultat
-
-## Extra:
-
-Collection
-
-## Détails des composants yajea001:
+## Détails des composants 
 
 Bouton
 (Start,
@@ -58,8 +46,6 @@ Popup
 Centered,
 Warning)
 
-## Détails des composants sadem001:
-
 Alerte
 (Succes,
 Avertissement,
@@ -85,7 +71,7 @@ Resultat
 Probleme,
 Erreur)
 
-## Pour démarrer le projet dans le terminal:
+# Pour démarrer le projet dans le terminal:
 
 yarn install
 
