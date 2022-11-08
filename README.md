@@ -23,7 +23,7 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 
 # Détails des composants 
 
-Alerte
+**Alerte**
 * Succes
 * Avertissement
 * Erreur
