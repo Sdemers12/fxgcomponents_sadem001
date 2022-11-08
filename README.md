@@ -24,54 +24,54 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 # Détails des composants 
 
 Alerte
-*Succes
-*Avertissement
-*Erreur
+* Succes
+* Avertissement
+* Erreur
 
 Avatar
-*Petit
-*Moyen
-*Grand
+* Petit
+* Moyen
+* Grand
 
 Bouton
-*Start
-*Eject
-*Destroy
+* Start
+* Eject
+* Destroy
 
 Carte
-*Default
-*DarkMode
-*Hoverable
+* Default
+* DarkMode
+* Hoverable
 
 ChampTexte
-*Contour
-*Attention
-*Succes
+* Contour
+* Attention
+* Succes
 
 Etape
-*Attente
-*Chargement
-*Termine
+* Attente
+* Chargement
+* Termine
 
 LoadSpin
-*Small
-*Medium
-*Large
+* Small
+* Medium
+* Large
 
 MenuDeroulant
-*BottomLeft
-*Bottom
-*Right
+* BottomLeft
+* Bottom
+* Right
 
 Popup
-*Basic
-*Centered
-*Warning
+* Basic
+* Centered
+* Warning
 
 Resultat
-*Succes
-*Probleme
-*Erreur
+* Succes
+* Probleme
+* Erreur
 
 # Pour démarrer le projet dans le terminal
 
