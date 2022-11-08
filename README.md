@@ -24,54 +24,54 @@ Ces composants sont la réalisation d'un travail de collaboration entre Yannick 
 # Détails des composants 
 
 **Alerte**
-* Succes
-* Avertissement
-* Erreur
+* Succes : Permet de changer la couleur et le texte de l'alerte de type succès.
+* Avertissement : Permet de changer la couleur et le texte de l'alerte de type avertissement.
+* Erreur : Permet de changer la couleur et le texte de l'alerte de type erreur.
 
 **Avatar**
-* Petit
-* Moyen
-* Grand
+* Petit : Permet de changer la taille de l'avatar à petit.
+* Moyen : Permet de changer la taille de l'avatar à moyen.
+* Grand : Permet de changer la taille de l'avatar à grand.
 
 **Bouton**
-* Start
-* Eject
-* Destroy
+* Start : Permet de changer l'aspect visuel du bouton et le texte pour Start.
+* Eject : Permet de changer l'aspect visuel du bouton et le texte pour Eject.
+* Destroy  : Permet de changer l'aspect visuel du bouton et le texte pour Destroy.
 
 **Carte**
-* Default
-* DarkMode
-* Hoverable
+* Default : Permet de mettre par défaut l'état de la carte.
+* DarkMode : Permet de changer l'aspect visuel de la carte pour un mode noir.
+* Hoverable : Permet de changer l'aspect visuel de la carte pour qu'il soit survolable.
 
 **ChampTexte**
-* Contour
-* Attention
-* Succes
+* Contour : Permet de changer l'aspect visuel du champ avec un contour. 
+* Attention : Permet de changer l'aspect visuel du champ avec un avertissement. 
+* Succes  : Permet de changer l'aspect visuel du champ avec un encadré succès. 
 
 **Etape**
-* Attente
-* Chargement
-* Termine
+* Attente : Permet de changer l'état de l'étape à attente.
+* Chargement : Permet de changer l'état de l'étape à chargement.
+* Termine : Permet de changer l'état de l'étape à terminé.
 
 **LoadSpin**
-* Small
-* Medium
-* Large
+* Small : Permet de changer la taille à petit.
+* Medium : Permet de changer la taille à moyen.
+* Large : Permet de changer la taille à grand.
 
 **MenuDeroulant**
-* BottomLeft
-* Bottom
-* Right
+* BottomLeft : Ouverture en bas à gauche.
+* Bottom : Ouverture en bas.
+* Right : Ouverture à droite.
 
 **Popup**
-* Basic
-* Centered
-* Warning
+* Basic : Changement d'état de la fenêtre. 
+* Centered : Changement d'état de la fenêtre. 
+* Warning : Changement d'état de la fenêtre. 
 
 **Resultat**
-* Succes
-* Probleme
-* Erreur
+* Succes : Permet de changer la couleur, le logo et le texte du résultat de type succès.
+* Probleme : Permet de changer la couleur, le logo et le texte du résultat de type avertissement.
+* Erreur : Permet de changer la couleur, le logo et le texte du résultat de type erreur.
 
 # Pour démarrer le projet dans le terminal
 
