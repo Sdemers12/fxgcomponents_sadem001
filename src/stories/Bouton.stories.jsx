@@ -42,5 +42,16 @@ Destroy.args = {
   width: 80,
 };
 
+export const Patate = Template.bind({});
+Patate.args = {
+  type: "danger",
+  shape: "circle",
+  text1: "Patate", 
+  text2: "Pilé", 
+  color: "green",
+  borderColor:"black",
+  height: 80,
+  width: 80,
+};
 
 
